@@ -1,0 +1,8 @@
+.image-container {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.car-details {
+  padding: 20px;
+}
